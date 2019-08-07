@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="welcome">欢迎界面</string>
+    <string name="primary_number">0</string>
+    <string name="button">按键</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title">纪念我和樊在一起一周年</string>
+    <string name="clear">C</string>
+    <string name="delete">←</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">×</string>
+    <string name="div">÷</string>
+    <string name="point">.</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="equal">=</string>
+    <string name="history">♥</string>
+    <string name="his">暂时没有历史记录</string>
+    <string name="clearHis">清空历史</string>
+
+</resources>
